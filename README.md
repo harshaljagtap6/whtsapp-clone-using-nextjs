@@ -1,2 +1,1 @@
-# whtsapp clone using nextjs
- 
+# nextjs-whatsapp-clone-starter
